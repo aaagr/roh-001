@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ROH 01",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1080,7 +1080,7 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "center",
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_name": "header2",
